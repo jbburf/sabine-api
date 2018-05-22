@@ -1,4 +1,4 @@
-# sabine-api
+# api
 
 a [Sails v1](https://sailsjs.com) application
 
@@ -15,12 +15,10 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Version info
 
-This app was originally generated on Fri May 18 2018 16:28:35 GMT-0500 (CDT) using Sails v1.0.2.
+This app was originally generated on Mon May 21 2018 23:01:22 GMT-0500 (CDT) using Sails v1.0.2.
 
 <!-- Internally, Sails used [`sails-generate@1.15.25`](https://github.com/balderdashy/sails-generate/tree/v1.15.25/lib/core-generators/new). -->
 
-
-This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
 
 
 <!--
